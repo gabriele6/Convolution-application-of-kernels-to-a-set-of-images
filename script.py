@@ -71,7 +71,6 @@ def computeImage(img, filterX, filterY):
 
 #grabbing pictures in the folder
 folder = "pics/"
-images = ['tree', 'face']
 images = [os.path.basename(x) for x in glob.glob(folder + '*.bmp')]
 images = [os.path.splitext(x)[0] for x in images]
 
