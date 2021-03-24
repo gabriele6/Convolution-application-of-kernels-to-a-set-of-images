@@ -1,5 +1,5 @@
 # Convolution-application
-Simple implementation of a convolution application of kernels on a bitmap images
+Simple implementation of a convolution application of kernels on bitmap images
 
 
 ## Usage
